@@ -9,11 +9,9 @@ body{
     background-color: midnightblue;
 }
 
-.container{
-    background-color: white;
-    padding: 5% 7%;
-    width: 300px;
-    margin: 5% auto;
+h1{
+    color: #1e1e1e;
+    margin: 0 0 2rem;
 }
 
 h1, h2, h3, h4, h5, h6, p {
